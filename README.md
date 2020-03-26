@@ -1,11 +1,11 @@
-simple TSC-CPU implementation
+# simple TSC-CPU implementation                                                                                          
 
-This is a repository presenting an implementation of a simple tsc-cpu. 
+This is a repository presenting an implementation of a simple tsc-cpu.
 
 Implementation versions are the followings:
 
-Single Cycle CPU
+* Single Cycle CPU
 
-Multi Cycle CPU
+* Multi Cycle CPU
 
-Pipelined CPU with Cache and DMA
+* Pipelined CPU with Cache and DMA
